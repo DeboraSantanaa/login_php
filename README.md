@@ -6,7 +6,7 @@ com o email e usuario presente no Banco de Dados.
 **não é possivel logar com usuario e senha inexistente!**<br> <br> 
 <br> 
 Nome do Banco:<br> 
-crudphp <br> 
+**crudphp** <br> 
 é necessario criar um banco de dados com este nome e importar o arquivo sql  presente neste repositorio. <br> 
 
 <br> <br> 
